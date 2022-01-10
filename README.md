@@ -6,7 +6,7 @@
 <h2>About me</h2>
 
 I am Aakanksha Jha, a sophomore currently pursuing my B.Tech degree in Information Technology from Indira Gandhi Delhi Technical University For Women. I am an keen learner and enthusiast. <br>
-⚡ Fun fact: I love exploring new things.I love to connect with people with different fields and backgrounds and know their jounrey.
+⚡ Fun fact: I love exploring new things.I love to connect with people from different fields and backgrounds and know their jounrey.<br>
 💬 I like to get involved in healthy discussions, so connect with me anytime. 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AakankshaJha1&theme=solarized)
